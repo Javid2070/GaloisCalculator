@@ -54,3 +54,18 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+
+# CMake & Build directories
+build/
+cmake-build-*/
+out/
+
+# Qt / Qt Creator generated files
+*.user
+*.user.*
+CMakeLists.txt.user
+
+# Binaries & Libraries
+*.exe
+*.obj
