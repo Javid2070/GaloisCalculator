@@ -69,3 +69,5 @@ CMakeLists.txt.user
 # Binaries & Libraries
 *.exe
 *.obj
+
+src/Untracked
