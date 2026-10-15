@@ -65,6 +65,7 @@ out/
 *.user
 *.user.*
 CMakeLists.txt.user
+.qtcreator/
 
 # Binaries & Libraries
 *.exe
